@@ -1,0 +1,159 @@
+@charset "UTF-8";
+
+body {
+	background-color: #dbe5f0;
+	font-family: Helvetica, Arial, sans-serif;
+	color: #363945;
+	margin-left: 50px;
+	margin-top: 50px;
+}
+
+body a {
+	font-size: 13px;
+	color: #0072b5;
+}
+
+body a:hover {
+	color: #000000;
+}
+
+body h2 {
+	color: #363945;
+	padding: 10px;
+}
+
+body h3 {
+	color: #363945;
+	padding: 10px;
+}
+
+.message {
+	font-size: 13px;
+}
+
+.link ul {
+	list-style-type: none;
+}
+
+.link ul li {
+	display: inline-table;
+	background-color: #fefbe7;
+	border-style: ridge;
+	border-radius: 20px;
+	padding: 8px;
+	width: 200px;
+	text-align: center;
+}
+
+.link ul li a {
+	text-decoration: none;
+	color: #d2386c;
+	font-size: 14px;
+}
+
+.link ul li a:hover {
+	color: #000000;
+}
+
+table, tr, td, a {
+	text-decoration: none;
+	font-size: 12px;
+	padding: 4px;
+}
+
+table, tr, th, td {
+	background-color: #FFFFFF;
+	border: 1px solid;
+	width: auto;
+	padding: 1px;
+}
+
+table tr th {
+	width: 100px;
+}
+
+.labels div input {
+	width: 300px;
+	border: 1px solid #939597;
+	float: right;
+	padding: 5px;
+	font-size: 12px;
+	margin-right: 800px;
+}
+
+.label div input {
+	width: 180px;
+	margin-top: 5px;
+	border: 1px solid #939597;
+	float: right;
+	padding: 5px;
+	font-size: 12px;
+	margin-right: 800px;
+}
+
+.label div select {
+	width: 200px;
+	margin-top: 5px;
+	border: 1px solid #939597;
+	float: right;
+	padding: 5px;
+	font-size: 12px;
+	margin-right: 800px;
+}
+
+.label div label {
+	font-size: 13px;
+}
+
+div select {
+	width: 300px;
+	border: 1px solid #939597;
+	padding: 5px;
+	float: right;
+	font-size: 12px;
+	margin-right: 800px;
+}
+
+.button input {
+	padding: 5px;
+	border-radius: 4px;
+	background-color: #000000;
+	color: #ffffff;
+	font-size: 12px;
+}
+
+.labels div label {
+	width: 300px;
+	padding: 5px;
+	left: right;
+	font-size: 13px;
+}
+
+.button button {
+	padding: 5px;
+	border-radius: 4px;
+	background-color: #000000;
+	color: #ffffff;
+	font-size: 12px;
+}
+
+#login {
+	text-decoration: none;
+	color: #0072b5;
+	padding: 20px;
+	font-size: 14px;
+}
+
+.label_login div input {
+	width: 180px;
+	border: 1px solid #939597;
+	float: right;
+	font-size: 12px;
+	margin-right: 900px;
+	padding: 5px;
+}
+
+.label_login div label {
+	font-size: 13px;
+}
+
